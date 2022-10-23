@@ -1,4 +1,13 @@
-package com.example.android.apiapp.network
+/* DEPENDENCIES
+
+Moshi
+implementation 'com.squareup.moshi:moshi-kotlin:1.13.0'
+
+Retrofit with Moshi Converter
+implementation 'com.squareup.retrofit2:converter-moshi:2.9.0'
+
+*/
+
 
 import com.squareup.moshi.Moshi
 import retrofit2.Retrofit
